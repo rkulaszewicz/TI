@@ -18,6 +18,9 @@
   "homepage": "https://github.com/rkulaszewicz/TI#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-connect": "^5.0.0"
+    "gulp-connect": "^5.0.0",
+     "gulp-jshint": "^2.0.4",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1"
   }
 }
