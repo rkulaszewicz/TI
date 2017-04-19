@@ -11,13 +11,21 @@ xhttp.send();
 function myFunction(xml) {
 var i;
 var xmlDoc = xml.responseXML;
-var table="<tr><th>Artist</th><th>Title</th></tr>";
+var table="<tr><th>Autor</th><th>Tytuł</th><th>Gatunek</th><th>Cena</th><th>Data Publikacji</th><th>Opis</th></tr>";
 var x = xmlDoc.getElementsByTagName("book");
 for (i = 0; i <x.length; i++) {
   table += "<tr><td>" +
   x[i].getElementsByTagName("author")[0].childNodes[0].nodeValue +
   "</td><td>" +
   x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue +
+  "</td><td>" +
+  x[i].getElementsByTagName("gerne")[0].childNodes[0].nodeValue +
+  "</td><td>" +
+  x[i].getElementsByTagName("price")[0].childNodes[0].nodeValue +
+ "</td><td>" +
+  x[i].getElementsByTagName("publish_date")[0].childNodes[0].nodeValue +
+  "</td><td>" +
+  x[i].getElementsByTagName("description")[0].childNodes[0].nodeValue +
   "</td></tr>";
 }
 document.getElementById("demo").innerHTML = table;
