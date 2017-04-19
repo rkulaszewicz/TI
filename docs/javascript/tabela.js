@@ -6,7 +6,6 @@ xhttp.onreadystatechange = function() {
   }
 };
 xhttp.open("GET", "files/tabela.xml", true);
-xhttp.onreadystatechange = handleStateChange;
 xhttp.send();
 }
 function myFunction(xml) {
