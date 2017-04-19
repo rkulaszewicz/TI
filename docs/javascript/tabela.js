@@ -19,7 +19,7 @@ for (i = 0; i <x.length; i++) {
   "</td><td>" +
   x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue +
   "</td><td>" +
-  x[i].getElementsByTagName("gerne")[0].childNodes[0].nodeValue +
+  x[i].getElementsByTagName("genre")[0].childNodes[0].nodeValue +
   "</td><td>" +
   x[i].getElementsByTagName("price")[0].childNodes[0].nodeValue +
  "</td><td>" +
