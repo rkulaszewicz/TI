@@ -62,7 +62,7 @@ td {
   img {
 	transform: rotate(90deg);
 }
-img + table {
+img + #bodytable {
 	margin-top: 20px;
 /* Stack labels vertically on smaller screens */
 @media (max-width: 320px) {
