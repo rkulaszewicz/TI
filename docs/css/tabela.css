@@ -56,9 +56,15 @@ td {
     margin-left: -100%;
     width: 100%;
   }
+  #data {
+    text-align: right;
+	}
 }
 /* Stack labels vertically on smaller screens */
 @media (max-width: 320px) {
+  #data {
+	text-align: left;
+	}
   td {
     padding-left: 0.75em;
   }
