@@ -28,6 +28,7 @@ for (i = 0; i <x.length; i++) {
   x[i].getElementsByTagName("description")[0].childNodes[0].nodeValue +
   "</td></tr>";
 }
-  table +="<tfoot><tr><td colspan='6'>Dane pobrane ze strony MS. Rafał Kulaszewicz</td></tr></tfoot></tbody>";
+  table +="</tbody>";
+  table +="<tfoot><tr><td colspan='6'>Dane pobrane ze strony MS. Rafał Kulaszewicz</td></tr></tfoot>";
 document.getElementById("demo").innerHTML = table;
 }
