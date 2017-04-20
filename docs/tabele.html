@@ -12,8 +12,12 @@
    <div id="bodytable">
    <table id="demo"></table>
  </div>
- <picture>
-  <img src="files/jaskinia.jpg">
+
+  <picture>
+  <source srcset="files/jaskinia.jpg">
+   <source media="(min-width: 480px)" srcset="files/jaskinia480jpg.jpg">
+   <source media="(min-width: 1024px)" srcset="files/jaskinia1024w.jpg">
+  <img src="files/jaskinia.jpg" alt="A photo of London by night">
  </picture>
  </body>
 </html>
