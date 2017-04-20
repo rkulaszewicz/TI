@@ -57,7 +57,7 @@ td {
     width: 100%;
   }
   #data {
-    text-align: right;
+    text-align: left;
 	}
 }
 /* Stack labels vertically on smaller screens */
