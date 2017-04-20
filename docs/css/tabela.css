@@ -59,12 +59,6 @@ td {
   #data {
     text-align: left;
 	}
-  img {
-	transform: rotate(90deg);
-}
-img + #bodytable {
-	margin-top: 20px;
-	}
 }
 /* Stack labels vertically on smaller screens */
 @media (max-width: 320px) {
