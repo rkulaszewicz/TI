@@ -20,6 +20,12 @@ td {
   padding: 5px;
   text-align: left;
 }
+@media screen and (width: 375px height: 667px){
+	img {
+		width:375px;
+		height: auto;
+	}
+}
 /* Stack rows vertically on small screens */
 @media screen and (max-width: 480px) {
   /* Hide column labels */
