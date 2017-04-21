@@ -22,7 +22,7 @@ td {
 }
 @media screen and (width: 375px height: 667px){
 	img {
-		width:375px;
+		width: 375px;
 		height: auto;
 	}
 }
