@@ -11,7 +11,7 @@ xhttp.send();
 function myFunction(xml) {
 var i;
 var xmlDoc = xml.responseXML;
-var table="<caption>To jest moja tabelka</caption>"
+var table="<caption>To jest moja tabelka</caption>";
 var table="<thead><tr><th>Autor</th><th>Tytuł</th><th>Gatunek</th><th>Cena</th><th id='data'>Data Publikacji</th><th>Opis</th></tr></thead><tbody>";
 var x = xmlDoc.getElementsByTagName("book");
 for (i = 0; i <x.length; i++) {
