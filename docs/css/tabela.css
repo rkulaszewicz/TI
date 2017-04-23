@@ -23,6 +23,10 @@ td {
 /* Stack rows vertically on small screens */
 @media screen and (max-width: 480px) {
   /* Hide column labels */
+	#data {
+		text-align: left;
+	}
+	
 	thead tr {
 		position: absolute;
 		top: -9999em;
