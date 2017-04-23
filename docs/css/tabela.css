@@ -49,6 +49,9 @@ img {
 		border-bottom: 1px solid #333;
 		padding-left: 50%;
 	}
+	img {
+  width: 100%;
+}
   td:before {
     content: attr(data-label);
     display: inline-block;
@@ -70,5 +73,8 @@ img {
 	#data {
 		text-align: left;
 	}
+	img {
+  width: 100%;
+}
 }
 
