@@ -59,9 +59,6 @@ td {
 }
 /* Stack labels vertically on smaller screens */
 @media (max-width: 320px) {
-  #data {
-	text-align: left;
-	}
   td {
     padding-left: 0.75em;
   }
