@@ -20,9 +20,7 @@ td {
   padding: 5px;
   text-align: left;
 }
-/* Stack rows vertically on small screens */
 @media screen and (max-width: 480px) {
-  /* Hide column labels */
 	#data {
 		text-align: left;
 	}
@@ -36,11 +34,9 @@ td {
     border: 1px solid #333;
     border-bottom: 0;
   }
-	/* Leave a space between table rows */
   tr + tr {
     margin-top: 1.5em;
   }
-  /* Get table cells to act like rows */
   tr,
   td {
 		display: block;
@@ -48,10 +44,8 @@ td {
 	td {
 		border: none;
 		border-bottom: 1px solid #333;
-	/* Leave a space for data labels */
 		padding-left: 50%;
 	}
-	/* Add data labels */
   td:before {
     content: attr(data-label);
     display: inline-block;
@@ -61,7 +55,6 @@ td {
     width: 100%;
   }
 }
-/* Stack labels vertically on smaller screens */
 @media (max-width: 320px) {
   td {
     padding-left: 0.75em;
@@ -71,5 +64,8 @@ td {
     margin-bottom: 0.75em;
     margin-left: 0;
   }
+	#data {
+		text-align: left;
+	}
 }
 
