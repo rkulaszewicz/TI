@@ -5,8 +5,35 @@
  <title></title>
    <script type="text/javascript" src="./javascript/tabela.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+$(document).ready(function () {
+  $('button').click(function () {
+    var showData = $('#show-data');
+
+    $.getJSON('http://api.openweathermap.org/data/2.5/weather?q=koscierzyna,pl&APPID=85a444edca2feb06cd84f0921a25f98a', function (data) {
+      console.log(data);
+
+      var items = data.items.map(function (item) {
+        return item.key + ': ' + item.value;
+      });
+
+      showData.empty();
+
+      if (items.length) {
+        var content = '<li>' + items.join('</li><li>') + '</li>';
+        var list = $('<ul />').html(content);
+        showData.append(list);
+      }
+    });
+
+    showData.text('Loading the JSON file.');
+  });
+});
+</script>
  </head>
  <body>
+  <button>Ładuj Pogode</button>
    <button type="button" onclick="loadDoc()">Załaduj Tabele</button>
    <br><br>
    <div id="bodytable">
