@@ -11,6 +11,61 @@
    <br><br>
    <div id="bodytable">
    <table id="demo"></table>
+    
+    <br><br>
+    <div class="tabela">
+    <table>
+        <colgroup>
+            <col span="1" style="background-color:#37ffc3">
+            <col span="6" style="background-color:#50ff69">
+        </colgroup>
+        <thead style="background-color:#7166ff ">
+        <tr>
+            <th>
+                dzień tygodnia
+            </th>
+            <th>
+                godzina
+            </th>
+            <th>
+                przedmiot
+            </th>
+            <th>
+                grupa
+            </th>
+            <th>
+                sala
+            </th>
+            <th>
+                rodzaj zajęć
+            </th>
+            <th>
+                uwagi
+            </th>
+        </tr>
+        </thead>
+        <tbody id='tabela'>
+
+        <script>
+                    $.getJSON("files/TBorzyszkowski.json", wypelnij);
+                    function wypelnij(data) {
+                        console.log("success");
+                        let add = '';
+                        $.each(data, function (i, obj) {
+                            add += '<tr><td><span class="tablesaw-cell-content">' + obj.dzien + '</span></td>'
+                            add += '<td><span class="tablesaw-cell-content">' + obj.godz + '</span></td>'
+                            add += '<td><span class="tablesaw-cell-content">' + obj.przedmiot + '</span></td>'
+                            add += '<td><span class="tablesaw-cell-content">' + obj.grupa + '</span></td>'
+                            add += '<td><span class="tablesaw-cell-content">' + obj.sala + '</span></td>'
+                            add += '<td><span class="tablesaw-cell-content">' + obj.typ + '</span></td>'
+                            add += '<td><span class="tablesaw-cell-content">' + obj.uwagi + '</span></td></tr>'
+                            console.log("success");
+                        });
+                        $('#tabela').html(add);
+                    }
+        </script>
+        </tbody>
+    </table>
  </div>
 
   <picture>
