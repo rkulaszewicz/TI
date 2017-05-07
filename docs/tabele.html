@@ -53,13 +53,13 @@
                         console.log("success");
                         let add = '';
                         $.each(data, function (i, obj) {
-                            add += '<tr><td><span class="tablesaw-cell-content">' + obj.dzien + '</span></td>'
-                            add += '<td><span class="tablesaw-cell-content">' + obj.godz + '</span></td>'
-                            add += '<td><span class="tablesaw-cell-content">' + obj.przedmiot + '</span></td>'
-                            add += '<td><span class="tablesaw-cell-content">' + obj.grupa + '</span></td>'
-                            add += '<td><span class="tablesaw-cell-content">' + obj.sala + '</span></td>'
-                            add += '<td><span class="tablesaw-cell-content">' + obj.typ + '</span></td>'
-                            add += '<td><span class="tablesaw-cell-content">' + obj.uwagi + '</span></td></tr>'
+                            add += '<tr><td>' + obj.dzien + '</td>'
+                            add += '<td>' + obj.godz + '</td>'
+                            add += '<td>' + obj.przedmiot + '</td>'
+                            add += '<td>' + obj.grupa + '</td>'
+                            add += '<td>' + obj.sala + '</td>'
+                            add += '<td>' + obj.typ + '</td>'
+                            add += '<td>' + obj.uwagi + '</td></tr>'
                             console.log("success");
                         });
                         $('#tabela').html(add);
