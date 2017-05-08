@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+    <title></title>
+    <script type="text/javascript" src="./javascript/drums.js"></script>
+    <link rel="Stylesheet" type="text/css" href="./css/drums.css" />
+  </head>
+<body>
+  <div class="keys">
+    <div data-keys="65" class="key">
+      <kbd>A</kbd>
+      <span class="sound">000</span>
+    </div>
+    <div data-keys="83" class="key">
+      <kbd>S</kbd>
+      <span class="sound">000</span>
+    </div>
+    <div data-keys="68" class="key">
+      <kbd>D</kbd>
+      <span class="sound">000</span>
+    </div>
+    <div data-keys="70" class="key">
+      <kbd>F</kbd>
+      <span class="sound">000</span>
+    </div>
+    <div data-keys="71" class="key">
+      <kbd>G</kbd>
+      <span class="sound">000</span>
+    </div>
+    <div data-keys="72" class="key">
+      <kbd>H</kbd>
+      <span class="sound">000</span>
+    </div>
+  </div>
+
+  <audio data-keys="65" src=""></audio>
+  <audio data-keys="83" src=""></audio>
+  <audio data-keys="68" src=""></audio>
+  <audio data-keys="70" src=""></audio>
+  <audio data-keys="71" src=""></audio>
+  <audio data-keys="72" src=""></audio>
+  <script>
+  window.addEventListener('keydown', function(e){
+    console.log(e);
+  });
+  </script>
+</body>
+</html>
