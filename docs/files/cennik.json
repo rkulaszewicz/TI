@@ -1,0 +1,2234 @@
+[
+	{
+		"NAZWA;CENA": "Porada og�lna;150"
+	},
+	{
+		"NAZWA;CENA": "Porada ortopedyczna;150"
+	},
+	{
+		"NAZWA;CENA": "Porada neurologiczna;150"
+	},
+	{
+		"NAZWA;CENA": "Porada otolaryngologiczna;150"
+	},
+	{
+		"NAZWA;CENA": "Porada rehabilitacyjna;150"
+	},
+	{
+		"NAZWA;CENA": "Porada reumatologiczna;150"
+	},
+	{
+		"NAZWA;CENA": "Porada chirurgiczna;150"
+	},
+	{
+		"NAZWA;CENA": "Porada internistyczna;150"
+	},
+	{
+		"NAZWA;CENA": "Porada pediatryczna;150"
+	},
+	{
+		"NAZWA;CENA": "Porada pulmonologiczna;150"
+	},
+	{
+		"NAZWA;CENA": "Porada alergologiczna;150"
+	},
+	{
+		"NAZWA;CENA": "Konsultacja ortopedyczna;150"
+	},
+	{
+		"NAZWA;CENA": "Porada diabetologiczna;150"
+	},
+	{
+		"NAZWA;CENA": "Porada okulistyczna;150"
+	},
+	{
+		"NAZWA;CENA": "Porada ginekologiczna;150"
+	},
+	{
+		"NAZWA;CENA": "Punkt �wiadczenia stomatologicznego;2"
+	},
+	{
+		"NAZWA;CENA": "Chirurgia naczyniowa;120"
+	},
+	{
+		"NAZWA;CENA": "EKG z opisem;25"
+	},
+	{
+		"NAZWA;CENA": "EKG bez opisu;10"
+	},
+	{
+		"NAZWA;CENA": "Holter z opisem;50"
+	},
+	{
+		"NAZWA;CENA": "Holter bez opisu;30"
+	},
+	{
+		"NAZWA;CENA": "Pe�ne b. laryngologiczne z b. audimetrycznym;120"
+	},
+	{
+		"NAZWA;CENA": "Badanie audiometryczne;15"
+	},
+	{
+		"NAZWA;CENA": "Badanie audiometryczne z opisem;35"
+	},
+	{
+		"NAZWA;CENA": "Badanie spirometryczne z opisem;35"
+	},
+	{
+		"NAZWA;CENA": "Badanie spirometryczne bez opisu;15"
+	},
+	{
+		"NAZWA;CENA": "Badanie cytologiczne;25"
+	},
+	{
+		"NAZWA;CENA": "Badanie cukru;8"
+	},
+	{
+		"NAZWA;CENA": "Dop�ata do tlenoterapii;60"
+	},
+	{
+		"NAZWA;CENA": "Obdukcja;90"
+	},
+	{
+		"NAZWA;CENA": "Za�wiadczenie emerytalno-rentowe;30"
+	},
+	{
+		"NAZWA;CENA": "Za�wiadczenie o grupie inwalidzkiej;30"
+	},
+	{
+		"NAZWA;CENA": "Za�wiadczenia z medycyny pracy (profilaktyka"
+	},
+	{
+		"NAZWA;CENA": "Za�wiadczenie lekarskie;15"
+	},
+	{
+		"NAZWA;CENA": "Kopia �wiadectwa pracy;17"
+	},
+	{
+		"NAZWA;CENA": "Kopia ze stosunku pracy;4"
+	},
+	{
+		"NAZWA;CENA": "Kopia kartoteki karty zarobkowej;4"
+	},
+	{
+		"NAZWA;CENA": "Odpis �wiadectwa pracy;35"
+	},
+	{
+		"NAZWA;CENA": "Odpis ze stosunku pracy;8"
+	},
+	{
+		"NAZWA;CENA": "Odpis skr�cony wysoko�ci zarobk�w;4"
+	},
+	{
+		"NAZWA;CENA": "Wysy�ka listu zwyk�ego;3"
+	},
+	{
+		"NAZWA;CENA": "Wysy�ka listu poleconego;10"
+	},
+	{
+		"NAZWA;CENA": "Wysy�ka listu zwyk�ego-priorytet;6"
+	},
+	{
+		"NAZWA;CENA": "Wysy�ka listu poleconego-priorytet;11"
+	},
+	{
+		"NAZWA;CENA": "Zwrotne dor�czenie listu;4"
+	},
+	{
+		"NAZWA;CENA": "Przes�anie faxem strony A-4;2"
+	},
+	{
+		"NAZWA;CENA": "Us�uga ksero A-4;0"
+	},
+	{
+		"NAZWA;CENA": "Us�uga ksero A-3;0"
+	},
+	{
+		"NAZWA;CENA": "Odpis lub wyci�g dokumentacji medycznej;8"
+	},
+	{
+		"NAZWA;CENA": "Sp�niony opis RTG;10"
+	},
+	{
+		"NAZWA;CENA": "Bloczek us�ug medycznych;4"
+	},
+	{
+		"NAZWA;CENA": "Opatrunek ma�y;15"
+	},
+	{
+		"NAZWA;CENA": "Opatrunek �redni;20"
+	},
+	{
+		"NAZWA;CENA": "Opatrunek du�y;25"
+	},
+	{
+		"NAZWA;CENA": "Opatrunek mi�kki (desolt) dzieci�cy;35"
+	},
+	{
+		"NAZWA;CENA": "Opatrunek mi�kki (desolt) dla doros�ej osoby;45"
+	},
+	{
+		"NAZWA;CENA": "Blokady;25"
+	},
+	{
+		"NAZWA;CENA": "Punkcje;25"
+	},
+	{
+		"NAZWA;CENA": "Opatrunek gipsowy ma�y na palec;30"
+	},
+	{
+		"NAZWA;CENA": "Opatrunek gipsowy ma�y na przedrami�;40"
+	},
+	{
+		"NAZWA;CENA": "Opatrunek gipsowy �redni;50"
+	},
+	{
+		"NAZWA;CENA": "Opatrunek gipsowy du�y;60"
+	},
+	{
+		"NAZWA;CENA": "Gips okr�ny ma�y;50"
+	},
+	{
+		"NAZWA;CENA": "Gips okr�ny �redni;55"
+	},
+	{
+		"NAZWA;CENA": "Gips okr�ny du�y;65"
+	},
+	{
+		"NAZWA;CENA": "Za�o�enie szyny Zimmera;30"
+	},
+	{
+		"NAZWA;CENA": "Zdj�cie szw�w;20"
+	},
+	{
+		"NAZWA;CENA": "Iniekcje podsk�rne;15"
+	},
+	{
+		"NAZWA;CENA": "Iniekcje do�ylne;20"
+	},
+	{
+		"NAZWA;CENA": "Drobny zabieg;50"
+	},
+	{
+		"NAZWA;CENA": "Zabieg chirurgiczny;100"
+	},
+	{
+		"NAZWA;CENA": "Zdj�cie gipsu ma�ego;10"
+	},
+	{
+		"NAZWA;CENA": "Zdj�cie gipsu �redniego;20"
+	},
+	{
+		"NAZWA;CENA": "Zdj�cie gipsu du�ego;30"
+	},
+	{
+		"NAZWA;CENA": "Zdj�cie gipsu okr�nego ma�ego;15"
+	},
+	{
+		"NAZWA;CENA": "Zdj�cie gipsu okr�nego �redniego;25"
+	},
+	{
+		"NAZWA;CENA": "Zdj�cie gipsu okr�nego du�ego;40"
+	},
+	{
+		"NAZWA;CENA": "Leki opatrunkowe;10"
+	},
+	{
+		"NAZWA;CENA": "Dop�ata do nebulizacji (maska);35"
+	},
+	{
+		"NAZWA;CENA": "Do�ylny wlew kroplowy;35"
+	},
+	{
+		"NAZWA;CENA": "Szczepionka;"
+	},
+	{
+		"NAZWA;CENA": "Porada specjalistyczna;150"
+	},
+	{
+		"NAZWA;CENA": "Porada endokrynologiczna;150"
+	},
+	{
+		"NAZWA;CENA": "Porada preluksacyjna;150"
+	},
+	{
+		"NAZWA;CENA": "Porada gastroenterologiczna;150"
+	},
+	{
+		"NAZWA;CENA": "Porada dermatologiczna;150"
+	},
+	{
+		"NAZWA;CENA": "Szczepionka Infanrix Hexa;200"
+	},
+	{
+		"NAZWA;CENA": "Szczepionka PENTAXIM;136"
+	},
+	{
+		"NAZWA;CENA": "Szczepionka Rotarix;310"
+	},
+	{
+		"NAZWA;CENA": "Szczepionka WZW B;35"
+	},
+	{
+		"NAZWA;CENA": "Koncentrator tlenu;1"
+	},
+	{
+		"NAZWA;CENA": "Karta pacjenta;15"
+	},
+	{
+		"NAZWA;CENA": "Pilot;150"
+	},
+	{
+		"NAZWA;CENA": "Szczepionka Synflorix;200"
+	},
+	{
+		"NAZWA;CENA": "Porada okulistyczna z doborem szkie�;170"
+	},
+	{
+		"NAZWA;CENA": "Wymaz z rany;100"
+	},
+	{
+		"NAZWA;CENA": "P�yn stawowy;100"
+	},
+	{
+		"NAZWA;CENA": "Badanie histopatologiczne;150"
+	},
+	{
+		"NAZWA;CENA": "Kompleksowy zabieg + badanie histopatologiczne;250"
+	},
+	{
+		"NAZWA;CENA": "Biopsja + badnie histopatologiczne;200"
+	},
+	{
+		"NAZWA;CENA": "Iniekcje domi�niowe;15"
+	},
+	{
+		"NAZWA;CENA": "Szczep. Influvac (grypa);25"
+	},
+	{
+		"NAZWA;CENA": "Rycza�t med. pracy zgodnie z umow�;80"
+	},
+	{
+		"NAZWA;CENA": "Badanie cukru z palca;2"
+	},
+	{
+		"NAZWA;CENA": "Odpis dokumentacji medycznej na no�niku elektronicznym;1"
+	},
+	{
+		"NAZWA;CENA": "Badanie EEG g�owy;90"
+	},
+	{
+		"NAZWA;CENA": "Badanie profilaktyczne - medycyna pracy;50"
+	},
+	{
+		"NAZWA;CENA": "Szczepionka przeciw kleszczom FSMEIMMUN;120"
+	},
+	{
+		"NAZWA;CENA": "Badanie ka�u;85"
+	},
+	{
+		"NAZWA;CENA": "Badanie na przewodnictwo ENG (1 nerw);50"
+	},
+	{
+		"NAZWA;CENA": "Za�wiadczenie z medycyny sportowej;50"
+	},
+	{
+		"NAZWA;CENA": "Za�wiadczenie z medycyny sportowej + diagnostyka (EKG"
+	},
+	{
+		"NAZWA;CENA": "Medycyna pracy - porada laryngologiczna;70"
+	},
+	{
+		"NAZWA;CENA": "Medycyna pracy - porada neurologiczna;70"
+	},
+	{
+		"NAZWA;CENA": "Medycyna pracy - porada okulistyczna;70"
+	},
+	{
+		"NAZWA;CENA": "Konsultacja lekarska przed szczepieniem;35"
+	},
+	{
+		"NAZWA;CENA": "Us�uga piel�gniarska;40"
+	},
+	{
+		"NAZWA;CENA": ";"
+	},
+	{
+		"NAZWA;CENA": "Badanie sanitarno-epidemiologiczne z orzeczeniem sanitarnym;55"
+	},
+	{
+		"NAZWA;CENA": "Szczepionka HEXACIMA;165"
+	},
+	{
+		"NAZWA;CENA": "Porada ortopedyczna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Porada neurologiczna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Porada otolaryngologiczna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Porada rehabilitacyjna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Porada reumatologiczna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Porada chirurgiczna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Porada internistyczna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Porada pediatryczna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Porada pulmonologiczna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Porada alergologiczna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Porada diabetologiczna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Porada okulistyczna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Porada ginekologiczna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Porada specjalistyczna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Porada endokrynologiczna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Porada preluksacyjna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Porada gastroenterologiczna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Porada dermatologiczna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Porada chor�b zaka�nych;150"
+	},
+	{
+		"NAZWA;CENA": "Porada chor�b zaka�nych (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Wizyta edukacyjna piel�niarki (stomia"
+	},
+	{
+		"NAZWA;CENA": "Medycyna pracy - badanie kierowcy (kandydat"
+	},
+	{
+		"NAZWA;CENA": "Op�ata za dzier�aw� reduktora tlenowego i butli;15"
+	},
+	{
+		"NAZWA;CENA": "Porada og�lna (kontynuacja);105"
+	},
+	{
+		"NAZWA;CENA": "Skleroterapia 100;100"
+	},
+	{
+		"NAZWA;CENA": "Skleroterapia 150;150"
+	},
+	{
+		"NAZWA;CENA": "DD - diadynamik;15"
+	},
+	{
+		"NAZWA;CENA": "Pr�dy TENS;15"
+	},
+	{
+		"NAZWA;CENA": "Galwanizacja;15"
+	},
+	{
+		"NAZWA;CENA": "Jonizacja;15"
+	},
+	{
+		"NAZWA;CENA": "Jonizacja oczna;15"
+	},
+	{
+		"NAZWA;CENA": "Terapuls;15"
+	},
+	{
+		"NAZWA;CENA": "Elektrostymulacja;15"
+	},
+	{
+		"NAZWA;CENA": "DKF-diatermia;15"
+	},
+	{
+		"NAZWA;CENA": "Magnetoterapia;15"
+	},
+	{
+		"NAZWA;CENA": "UD - ultrad�wi�ki;15"
+	},
+	{
+		"NAZWA;CENA": "Fonoforeza;15"
+	},
+	{
+		"NAZWA;CENA": "Laseroterapia;15"
+	},
+	{
+		"NAZWA;CENA": "Nagrzewanie lamp� Sollux;10"
+	},
+	{
+		"NAZWA;CENA": "Nagrzewanie lamp� BIOPTRON;10"
+	},
+	{
+		"NAZWA;CENA": "Krioterapia na z/p (woreczki �elowe);2"
+	},
+	{
+		"NAZWA;CENA": "Krio. CO2/AZOT;20"
+	},
+	{
+		"NAZWA;CENA": "Kriokomora;40"
+	},
+	{
+		"NAZWA;CENA": "Dop�ata do krioterapii;0"
+	},
+	{
+		"NAZWA;CENA": "Interdyn;15"
+	},
+	{
+		"NAZWA;CENA": "Masa� wirowy KKD;15"
+	},
+	{
+		"NAZWA;CENA": "Masa� wirowy KKG;15"
+	},
+	{
+		"NAZWA;CENA": "Ok�ad parafinowy;15"
+	},
+	{
+		"NAZWA;CENA": "�w. czynno�bierne;20"
+	},
+	{
+		"NAZWA;CENA": "�w. w odci��eniu (UGUL);15"
+	},
+	{
+		"NAZWA;CENA": "�w. w odci��eniu z oporem;15"
+	},
+	{
+		"NAZWA;CENA": "�w. bierne;20"
+	},
+	{
+		"NAZWA;CENA": "�w. czynne wolne;20"
+	},
+	{
+		"NAZWA;CENA": "�w. izometryczne;20"
+	},
+	{
+		"NAZWA;CENA": "�w. wspomagane;20"
+	},
+	{
+		"NAZWA;CENA": "�w. czynne z oporem;20"
+	},
+	{
+		"NAZWA;CENA": "�w. og�lno-usprawniaj�ce;20"
+	},
+	{
+		"NAZWA;CENA": "Klasyczny masa� r�czny;50"
+	},
+	{
+		"NAZWA;CENA": "Skaner;15"
+	},
+	{
+		"NAZWA;CENA": "K�piel pere�kowa;30"
+	},
+	{
+		"NAZWA;CENA": "Pr�dy Traberta;15"
+	},
+	{
+		"NAZWA;CENA": "Pr�dy Kotza;15"
+	},
+	{
+		"NAZWA;CENA": "RTG klatka piersiowa p - a;35"
+	},
+	{
+		"NAZWA;CENA": "RTG klatka piersiowa p - a z kontrastem w prze�yku;35"
+	},
+	{
+		"NAZWA;CENA": "RTG klatka piersiowa boczne;35"
+	},
+	{
+		"NAZWA;CENA": "RTG klatka piersiowa boczne z kontrastem w prze�yku;35"
+	},
+	{
+		"NAZWA;CENA": "RTG celowane klatki piersiowej;25"
+	},
+	{
+		"NAZWA;CENA": "RTG tarczyca (2 rzuty);25"
+	},
+	{
+		"NAZWA;CENA": "RTG klatka piersiowa p - a u dzieci;25"
+	},
+	{
+		"NAZWA;CENA": "RTG klatka piersiowa p - a u dzieci z kontrastem w prze�yku;25"
+	},
+	{
+		"NAZWA;CENA": "RTG klatka piersiowa boczne z kontrastem w prze�yku u dzieci;25"
+	},
+	{
+		"NAZWA;CENA": "RTG czaszka (2 rzuty);35"
+	},
+	{
+		"NAZWA;CENA": "RTG czaszka (1 rzut) - potylica"
+	},
+	{
+		"NAZWA;CENA": "RTG czaszka - celowane na siode�ko tureckie;20"
+	},
+	{
+		"NAZWA;CENA": "RTG oczodo�y p - a;25"
+	},
+	{
+		"NAZWA;CENA": "RTG oczodo�y (2 rzuty);30"
+	},
+	{
+		"NAZWA;CENA": "RTG zatoki przynosowe;25"
+	},
+	{
+		"NAZWA;CENA": "RTG �uchwa (1 rzut);25"
+	},
+	{
+		"NAZWA;CENA": "RTG �uchwa (2 rzuty);35"
+	},
+	{
+		"NAZWA;CENA": "RTG stawy skroniowo - �uchwowe (4 rzuty);50"
+	},
+	{
+		"NAZWA;CENA": "RTG �uki jarzmowe (2 rzuty);30"
+	},
+	{
+		"NAZWA;CENA": "RTG ko�ci nosa (2 rzuty);25"
+	},
+	{
+		"NAZWA;CENA": "RTG kana�y nerw�w wzrokowych;30"
+	},
+	{
+		"NAZWA;CENA": "RTG uszy (4 rzuty);40"
+	},
+	{
+		"NAZWA;CENA": "RTG z�b;20"
+	},
+	{
+		"NAZWA;CENA": "RTG kr�gos�up ca�y a - p (skolioza);35"
+	},
+	{
+		"NAZWA;CENA": "RTG kr�gos�up szyjny (2 rzuty);35"
+	},
+	{
+		"NAZWA;CENA": "RTG kr�gos�up szyjny (4 rzuty) ze skosami;50"
+	},
+	{
+		"NAZWA;CENA": "RTG celowane kr�gu C1 - C2 (2 rzuty);30"
+	},
+	{
+		"NAZWA;CENA": "RTG kr�gos�up piersiowy (2 rzuty);45"
+	},
+	{
+		"NAZWA;CENA": "RTG kr�gos�up l�d�wiowo - krzy�owy (2 rzuty);45"
+	},
+	{
+		"NAZWA;CENA": "RTG miednica i stawy biodrowo a - p (35x43);30"
+	},
+	{
+		"NAZWA;CENA": "RTG stawy biodrowe u dzieci;30"
+	},
+	{
+		"NAZWA;CENA": "RTG kr�gos�up l�d�wiowy skosy (2 rzuty);45"
+	},
+	{
+		"NAZWA;CENA": "RTG kr�gos�up celowane L5 - S1 (2 rzuty);30"
+	},
+	{
+		"NAZWA;CENA": "RTG stawy krzy�owo - biodrowe a - p;30"
+	},
+	{
+		"NAZWA;CENA": "RTG stawy krzy�owo - biodrowe skosy (2 rzuty);30"
+	},
+	{
+		"NAZWA;CENA": "RTG staw biodrowy a - p;30"
+	},
+	{
+		"NAZWA;CENA": "RTG staw biodrowy (osiowy);30"
+	},
+	{
+		"NAZWA;CENA": "RTG ko�� krzy�owa (2 rzuty);30"
+	},
+	{
+		"NAZWA;CENA": "RTG ko�� ogonowa (2 rzuty);30"
+	},
+	{
+		"NAZWA;CENA": "RTG ko�� �onowa p - a;25"
+	},
+	{
+		"NAZWA;CENA": "RTG �ebra;30"
+	},
+	{
+		"NAZWA;CENA": "RTG mostek (2 rzuty);30"
+	},
+	{
+		"NAZWA;CENA": "RTG obojczyk;25"
+	},
+	{
+		"NAZWA;CENA": "RTG staw barkowy"
+	},
+	{
+		"NAZWA;CENA": "RTG staw barkowy (2 rzuty);40"
+	},
+	{
+		"NAZWA;CENA": "RTG ko�� ramieniowa (2 rzuty);30"
+	},
+	{
+		"NAZWA;CENA": "RTG ko�ci przedramienia (2 rzuty);30"
+	},
+	{
+		"NAZWA;CENA": "RTG staw �okciowy (dwa rzuty);30"
+	},
+	{
+		"NAZWA;CENA": "RTG nadgarstek (2 rzuty)"
+	},
+	{
+		"NAZWA;CENA": "RTG d�onie a - p;30"
+	},
+	{
+		"NAZWA;CENA": "RTG d�o� (2 rzuty);40"
+	},
+	{
+		"NAZWA;CENA": "RTG stopa (2 rzuty);30"
+	},
+	{
+		"NAZWA;CENA": "RTG palec (2 rzuty);20"
+	},
+	{
+		"NAZWA;CENA": "RTG d�o�"
+	},
+	{
+		"NAZWA;CENA": "RTG �opatka (2 rzuty);40"
+	},
+	{
+		"NAZWA;CENA": "RTG �opatka (1 rzut);30"
+	},
+	{
+		"NAZWA;CENA": "RTG ko�� udowa (2 rzuty);30"
+	},
+	{
+		"NAZWA;CENA": "RTG staw kolanowy (1 rzut);30"
+	},
+	{
+		"NAZWA;CENA": "RTG staw kolanowy (2 rzuty);40"
+	},
+	{
+		"NAZWA;CENA": "RTG rzepka (2 rzuty);30"
+	},
+	{
+		"NAZWA;CENA": "RTG rzepka osiowo;25"
+	},
+	{
+		"NAZWA;CENA": "RTG podudzie (2 rzuty);30"
+	},
+	{
+		"NAZWA;CENA": "RTG staw skokowy (2 rzuty);30"
+	},
+	{
+		"NAZWA;CENA": "RTG ko�� pi�towa (2 rzuty);25"
+	},
+	{
+		"NAZWA;CENA": "RTG ko�� pi�towa (por�wnawczo - 1 rzut);25"
+	},
+	{
+		"NAZWA;CENA": "RTG przegl�dowe jamy brzusznej;40"
+	},
+	{
+		"NAZWA;CENA": "USG jamy brzusznej;90"
+	},
+	{
+		"NAZWA;CENA": "USG tarczycy;90"
+	},
+	{
+		"NAZWA;CENA": "USG sutk�w"
+	},
+	{
+		"NAZWA;CENA": "USG staw�w biodrowych;90"
+	},
+	{
+		"NAZWA;CENA": "USG dopplerowskie t�tnic szyjnych;90"
+	},
+	{
+		"NAZWA;CENA": "USG dopplerowskie t�tnic/ �y� ko�czyny dolnej ;110"
+	},
+	{
+		"NAZWA;CENA": "USG dopplerowskie t�tnic / �y� ko�czyn dolnych L+P;170"
+	},
+	{
+		"NAZWA;CENA": "USG dopplerowskie kobiet w ci��y tzw. 3D/4D;130"
+	},
+	{
+		"NAZWA;CENA": "USG kostki;90"
+	},
+	{
+		"NAZWA;CENA": "USG inne;90"
+	},
+	{
+		"NAZWA;CENA": "Badanie densytometryczne;40"
+	},
+	{
+		"NAZWA;CENA": "Odpis dokumentacji medycznej z aparatu USG;2"
+	},
+	{
+		"NAZWA;CENA": "Dodatkowa dokumentacja - cena 1 filmu;15"
+	},
+	{
+		"NAZWA;CENA": "Dodatkowa dokumentacja - komplet wydruk�w papierowych Aycan;15"
+	},
+	{
+		"NAZWA;CENA": "Dodatkowa dokumentacja - p�yta CD;1"
+	},
+	{
+		"NAZWA;CENA": "Badanie lekarskie w celu okre�lenia rodzaju i zakresu badania MR - bez skierowania;30"
+	},
+	{
+		"NAZWA;CENA": "MR jednej okolicy anatomicznej bez kontratsu;520"
+	},
+	{
+		"NAZWA;CENA": "MR jednej okolicy anatomicznej z kontrastem;620"
+	},
+	{
+		"NAZWA;CENA": "TK jednej okolicy anatomicznej bez kontrastu;370"
+	},
+	{
+		"NAZWA;CENA": "TK jednej okolicy anatomicznej z kontrastem;470"
+	},
+	{
+		"NAZWA;CENA": "Dop�ata do badania kontrastowego MR"
+	},
+	{
+		"NAZWA;CENA": "ANALITYKA OG�LNA;"
+	},
+	{
+		"NAZWA;CENA": "Giardia lamblia w kale - test immunochromatograficzny;35"
+	},
+	{
+		"NAZWA;CENA": "Ka� badanie og�lne;18"
+	},
+	{
+		"NAZWA;CENA": "Ka� na paso�yty;25"
+	},
+	{
+		"NAZWA;CENA": "Ka� na paso�yty w pr�bce jednorazowej;9"
+	},
+	{
+		"NAZWA;CENA": "Krew utajona w kale;20"
+	},
+	{
+		"NAZWA;CENA": "Mikroalbuminuria - metoda p�ilo�ciowa;25"
+	},
+	{
+		"NAZWA;CENA": "Mocz badanie og�lne;8"
+	},
+	{
+		"NAZWA;CENA": "Nasienie badanie og�lne;20"
+	},
+	{
+		"NAZWA;CENA": "Stosunek albuminy do kreatyniny w moczu;25"
+	},
+	{
+		"NAZWA;CENA": "Szybki test w kierunku paciorkowc�w (Stereptococcus grupa A) immunoch."
+	},
+	{
+		"NAZWA;CENA": "Wymaz na owsiki;8"
+	},
+	{
+		"NAZWA;CENA": "HEMATOLOGIA;"
+	},
+	{
+		"NAZWA;CENA": "Morfologia z rozmazem;8"
+	},
+	{
+		"NAZWA;CENA": "OB;8"
+	},
+	{
+		"NAZWA;CENA": "Mikroskopowa ocena rozmazu krwi obwodowej;8"
+	},
+	{
+		"NAZWA;CENA": "P�ytki krwi oznaczone w krwi cytrynianowej;8"
+	},
+	{
+		"NAZWA;CENA": "Morfologia z rozmazem plus retikulocyty;13"
+	},
+	{
+		"NAZWA;CENA": "Morfologia plus retikulocyty;8"
+	},
+	{
+		"NAZWA;CENA": "KOAGUOLOGIA;"
+	},
+	{
+		"NAZWA;CENA": "Czas protrombinowy (INR);10"
+	},
+	{
+		"NAZWA;CENA": "Czas kaolinowo-kefalinowy (APTT);10"
+	},
+	{
+		"NAZWA;CENA": "Fibrynogen;15"
+	},
+	{
+		"NAZWA;CENA": "D-Dimery;30"
+	},
+	{
+		"NAZWA;CENA": "Antytrombina III;59"
+	},
+	{
+		"NAZWA;CENA": "Bia�ko C w osoczu;90"
+	},
+	{
+		"NAZWA;CENA": "Bia�ko S;105"
+	},
+	{
+		"NAZWA;CENA": "Czas trombinowy;23"
+	},
+	{
+		"NAZWA;CENA": "BIOCHEMIA;"
+	},
+	{
+		"NAZWA;CENA": "ALAT;8"
+	},
+	{
+		"NAZWA;CENA": "Albuminy;10"
+	},
+	{
+		"NAZWA;CENA": "Amylaza;15"
+	},
+	{
+		"NAZWA;CENA": "Amylaza w moczu;15"
+	},
+	{
+		"NAZWA;CENA": "ASO;15"
+	},
+	{
+		"NAZWA;CENA": "ASPAT;8"
+	},
+	{
+		"NAZWA;CENA": "Bia�ko ca�kowite;15"
+	},
+	{
+		"NAZWA;CENA": "Bia�ko w moczu;15"
+	},
+	{
+		"NAZWA;CENA": "Bia�ko w moczu dobowym;15"
+	},
+	{
+		"NAZWA;CENA": "Bilirubina bezpo�rednia;10"
+	},
+	{
+		"NAZWA;CENA": "Bilirubina ca�kowita;8"
+	},
+	{
+		"NAZWA;CENA": "Bilirubina po�rednia;10"
+	},
+	{
+		"NAZWA;CENA": "Ca - zjonizowany;18"
+	},
+	{
+		"NAZWA;CENA": "Chlorki;12"
+	},
+	{
+		"NAZWA;CENA": "Chlorki w moczu;13"
+	},
+	{
+		"NAZWA;CENA": "Cholesterol ca�kowity;8"
+	},
+	{
+		"NAZWA;CENA": "Cholesterol HDL;8"
+	},
+	{
+		"NAZWA;CENA": "Cholesterol LDL (wyliczany);0"
+	},
+	{
+		"NAZWA;CENA": "Cholesterol LDL-D (oznaczany);12"
+	},
+	{
+		"NAZWA;CENA": "CK (CPK)-Kinaza kreatynowa;10"
+	},
+	{
+		"NAZWA;CENA": "CK-MB;13"
+	},
+	{
+		"NAZWA;CENA": "CRP;15"
+	},
+	{
+		"NAZWA;CENA": "Ferrytyna;28"
+	},
+	{
+		"NAZWA;CENA": "Fosfataza alkaliczna;8"
+	},
+	{
+		"NAZWA;CENA": "Fosforany w moczu;13"
+	},
+	{
+		"NAZWA;CENA": "Fosforany w moczu dobowym;13"
+	},
+	{
+		"NAZWA;CENA": "Fosorany;10"
+	},
+	{
+		"NAZWA;CENA": "Gazometria;24"
+	},
+	{
+		"NAZWA;CENA": "GGTP;8"
+	},
+	{
+		"NAZWA;CENA": "Glukoza na czczo;7"
+	},
+	{
+		"NAZWA;CENA": "Glukoza po 1 godz. od obci��enia;9"
+	},
+	{
+		"NAZWA;CENA": "Glukoza po 2 godz. od obci��enia;9"
+	},
+	{
+		"NAZWA;CENA": "Glukoza w moczu;8"
+	},
+	{
+		"NAZWA;CENA": "HBA1C -Hemoglobina glikowana (DCCT/NGSP);25"
+	},
+	{
+		"NAZWA;CENA": "Klirens kreatyniny endogennej;23"
+	},
+	{
+		"NAZWA;CENA": "Kreatynina w;8"
+	},
+	{
+		"NAZWA;CENA": "Kreatynina w moczu;15"
+	},
+	{
+		"NAZWA;CENA": "Kwas moczowy;8"
+	},
+	{
+		"NAZWA;CENA": "Kwas moczowy w moczu;9"
+	},
+	{
+		"NAZWA;CENA": "Lipodogram (LDL oznaczane);"
+	},
+	{
+		"NAZWA;CENA": "Lipodogram (LDL wyliczane);24"
+	},
+	{
+		"NAZWA;CENA": "Magnez w moczu;13"
+	},
+	{
+		"NAZWA;CENA": "Magnez w surowicy;10"
+	},
+	{
+		"NAZWA;CENA": "Mocznik;8"
+	},
+	{
+		"NAZWA;CENA": "Mocznik w moczu;11"
+	},
+	{
+		"NAZWA;CENA": "Potas;8"
+	},
+	{
+		"NAZWA;CENA": "Potas w moczu;13"
+	},
+	{
+		"NAZWA;CENA": "Profil w�trobowy;40"
+	},
+	{
+		"NAZWA;CENA": "RF - czynnik reumatoidalny (ilo�ciowo);15"
+	},
+	{
+		"NAZWA;CENA": "S�d;8"
+	},
+	{
+		"NAZWA;CENA": "S�d w moczu;20"
+	},
+	{
+		"NAZWA;CENA": "TIBC;15"
+	},
+	{
+		"NAZWA;CENA": "Transferyna;25"
+	},
+	{
+		"NAZWA;CENA": "Triglicerydy;8"
+	},
+	{
+		"NAZWA;CENA": "Troponina;30"
+	},
+	{
+		"NAZWA;CENA": "USR - test paskowy immunochromatograficzny;15"
+	},
+	{
+		"NAZWA;CENA": "Wap�;9"
+	},
+	{
+		"NAZWA;CENA": "Wap� w moczu;10"
+	},
+	{
+		"NAZWA;CENA": "Wap� w moczu dobowym;10"
+	},
+	{
+		"NAZWA;CENA": "�elazo;8"
+	},
+	{
+		"NAZWA;CENA": "ENDOKRYNOLOGIA;"
+	},
+	{
+		"NAZWA;CENA": "17-OH-Progesteron;45"
+	},
+	{
+		"NAZWA;CENA": "ACTH;45"
+	},
+	{
+		"NAZWA;CENA": "Aldosteron;56"
+	},
+	{
+		"NAZWA;CENA": "AMH -Hormon anty-Mullerowski (rezerwa jajnikowa);156"
+	},
+	{
+		"NAZWA;CENA": "Androstendion;45"
+	},
+	{
+		"NAZWA;CENA": "A-TG (Przeciwcia�a p-tyreoglobulinie);38"
+	},
+	{
+		"NAZWA;CENA": "A-TPO (Przeciwcia�a p-peroksydazie tarczycowej);38"
+	},
+	{
+		"NAZWA;CENA": "Beta HCG;30"
+	},
+	{
+		"NAZWA;CENA": "DHEA;58"
+	},
+	{
+		"NAZWA;CENA": "DHEAS (Siarczan dehydroepiandrosteronu);45"
+	},
+	{
+		"NAZWA;CENA": "Dehydrotestosteron;240"
+	},
+	{
+		"NAZWA;CENA": "Estradiol;32"
+	},
+	{
+		"NAZWA;CENA": "Estriol;35"
+	},
+	{
+		"NAZWA;CENA": "FSH;30"
+	},
+	{
+		"NAZWA;CENA": "FT3;20"
+	},
+	{
+		"NAZWA;CENA": "FT4;20"
+	},
+	{
+		"NAZWA;CENA": "Hormon wzrostu (GH);45"
+	},
+	{
+		"NAZWA;CENA": "Kortyzol w moczu;46"
+	},
+	{
+		"NAZWA;CENA": "Kortyzol w surowicy;45"
+	},
+	{
+		"NAZWA;CENA": "LH;28"
+	},
+	{
+		"NAZWA;CENA": "Makroprolaktyna;50"
+	},
+	{
+		"NAZWA;CENA": "Parathormon (PTH);43"
+	},
+	{
+		"NAZWA;CENA": "Progesteron;30"
+	},
+	{
+		"NAZWA;CENA": "Prolaktyna;26"
+	},
+	{
+		"NAZWA;CENA": "Prolaktyna - test z metoclopramidem (po 120 min);26"
+	},
+	{
+		"NAZWA;CENA": "Prolaktyna - test z metoclopramidem (po 60 min);26"
+	},
+	{
+		"NAZWA;CENA": "SHBG (Globuliny wi���ce hormony p�ciowe);45"
+	},
+	{
+		"NAZWA;CENA": "Testosteron;36"
+	},
+	{
+		"NAZWA;CENA": "Testosteron wolny;71"
+	},
+	{
+		"NAZWA;CENA": "TSH;16"
+	},
+	{
+		"NAZWA;CENA": "TSHR-AB (Przeciwcia�a p. receptorom TSH);90"
+	},
+	{
+		"NAZWA;CENA": "TT3;22"
+	},
+	{
+		"NAZWA;CENA": "TT4;22"
+	},
+	{
+		"NAZWA;CENA": "Tyreoglobulina;45"
+	},
+	{
+		"NAZWA;CENA": "MARKERY NOWOTWOROWE;"
+	},
+	{
+		"NAZWA;CENA": "AFP;30"
+	},
+	{
+		"NAZWA;CENA": "Antygen raka p�askonab�onkowego SCC;38"
+	},
+	{
+		"NAZWA;CENA": "Beta-2-mikroglobulina;46"
+	},
+	{
+		"NAZWA;CENA": "CA 15.3;35"
+	},
+	{
+		"NAZWA;CENA": "CA 19-9;26"
+	},
+	{
+		"NAZWA;CENA": "Ca 72-4;36"
+	},
+	{
+		"NAZWA;CENA": "CA-125;30"
+	},
+	{
+		"NAZWA;CENA": "CEA;30"
+	},
+	{
+		"NAZWA;CENA": "Cyfra 21-1;96"
+	},
+	{
+		"NAZWA;CENA": "HE4;80"
+	},
+	{
+		"NAZWA;CENA": "Marker S-100;86"
+	},
+	{
+		"NAZWA;CENA": "PSA;25"
+	},
+	{
+		"NAZWA;CENA": "PSA wolny;36"
+	},
+	{
+		"NAZWA;CENA": "ROMA algorytm (HE4+Ca125);106"
+	},
+	{
+		"NAZWA;CENA": "Swoista enolaza neuronowa (NSE);36"
+	},
+	{
+		"NAZWA;CENA": "Tkankowy Antygen Polipeptydowy (TPA);96"
+	},
+	{
+		"NAZWA;CENA": "Tumor M2-PK-izoenzym kinazy pirogronianowej w kale;176"
+	},
+	{
+		"NAZWA;CENA": "DIAGNOSTYKA INFEKCJI;"
+	},
+	{
+		"NAZWA;CENA": "Antygen HBe;58"
+	},
+	{
+		"NAZWA;CENA": "Antygen HBS;15"
+	},
+	{
+		"NAZWA;CENA": "Awidno�� cytomegalii;80"
+	},
+	{
+		"NAZWA;CENA": "Awidno�� r�yczki;86"
+	},
+	{
+		"NAZWA;CENA": "Awidno�� toksoplazmozy;45"
+	},
+	{
+		"NAZWA;CENA": "HAV - IgM;46"
+	},
+	{
+		"NAZWA;CENA": "HAV-IgG;49"
+	},
+	{
+		"NAZWA;CENA": "HBV DNA (ilo�ciowo);510"
+	},
+	{
+		"NAZWA;CENA": "HBV DNA (jako�ciowo);210"
+	},
+	{
+		"NAZWA;CENA": "HCV RNA (jako�ciowo);176"
+	},
+	{
+		"NAZWA;CENA": "HCV RNA (PCR);456"
+	},
+	{
+		"NAZWA;CENA": "Helicobacter pylori - antygen w kale;35"
+	},
+	{
+		"NAZWA;CENA": "HIV;30"
+	},
+	{
+		"NAZWA;CENA": "HIV - test metod� Westn Blot;292"
+	},
+	{
+		"NAZWA;CENA": "HPV DNA PCR (test jako�ciowy);206"
+	},
+	{
+		"NAZWA;CENA": "HSV 1 IgG (opryszczka wargowa);76"
+	},
+	{
+		"NAZWA;CENA": "HSV 2 IgG (opryszczka narz�d�w p�ciowych);76"
+	},
+	{
+		"NAZWA;CENA": "HSV IgM (wirus opryszczki);90"
+	},
+	{
+		"NAZWA;CENA": "Mononukleoza (szybki test);31"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a anty-HCV;30"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a HBc klasy IgM;48"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Babesia IgG;120"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Babesia IgG + IgM (IIF);295"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Bartonella henselae IgG;117"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Bartonella henselae IgM;117"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Borrelia b IgG Western Blot;95"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Borrelia b IgM western blot;95"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Borrelia burgdoferi IgG;30"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Borrelia burgdoferi IgM;30"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Canadida albicans IgG;49"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Canadida albicans IgM;49"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Chlamydia pneumoniae IgG;85"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Chlamydia pneumoniae IgM;85"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Chlamydia pneumoniae IgA;78"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Chlamydia trachomatis IgG;31"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Chlamydia trachomatis IgM;31"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Chlamydii trachomatis IgA;46"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Cytomegalii Ig G;28"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Cytomegalii Ig M;30"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ EBV klasy IgG;40"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ EBV klasy IgM;40"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Gli�cie ludzkiej IgG;90"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ HBc total;39"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ HBe;46"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ HBs;28"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Helicobacter pylori IgG;46"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Krztu�cowi w klasie IgA;40"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Krztu�cowi w klasie IgG;40"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Krztu�cowi w klasie IgM;56"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Mycoplasma pneumoniae IgG;53"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Mycoplasma pneumoniae IgM;53"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Mycoplasma pneumoniqe IgA;53"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ parawirusowi B19 IgG i IgM (IIF);115"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Pneumocistis jioveci (APCA) (dawniej Pn. carini);80"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ R�yczce (Rubella) IgG;24"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ R�yczce (Rubellla) IgM;28"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Tasiemcowi b�blowcowi IgG"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Toksokarozie IgG;62"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Toxoplazmozie IgA;79"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Toxoplazmozie Ig G;26"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Toxoplazmozie Ig M;26"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Trichinella spiralis IgG;142"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Wirusowi ospy IgG;114"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Wirusowi ospy IgM;114"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/wirusowi �winki IgM (MUPS-M);90"
+	},
+	{
+		"NAZWA;CENA": "Test HPV 12 genotyp�w;140"
+	},
+	{
+		"NAZWA;CENA": "Test HPV 37 + HSV I/II;395"
+	},
+	{
+		"NAZWA;CENA": "Test HPV 37 z genotypowaniem;320"
+	},
+	{
+		"NAZWA;CENA": "Test przesiewowy w kierunku boreliozy IgG/IgM;36"
+	},
+	{
+		"NAZWA;CENA": "AUTOIMMUNOLOGIA;"
+	},
+	{
+		"NAZWA;CENA": "ANA 2;96"
+	},
+	{
+		"NAZWA;CENA": "ANA 3;140"
+	},
+	{
+		"NAZWA;CENA": "ANA-HEP;80"
+	},
+	{
+		"NAZWA;CENA": "ASA - przeciwcia�a p/ plemnikowe;"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a antycentromerowe;96"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ ACCP (cytrulinowe);55"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ ATP-azie kom�rek ok�adzinowych �o��dka (Elissa);91"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ B2 glikoproteina 1 (IgG+IgM);136"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ czynnikowi wewn�trznemu niezb�dnemu do wch�aniania wit. B 12;74"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ dekarboksylazie kwasu glutaminowego GAD;76"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ dsDNA (dwuniciowe DNA);71"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ endomysium IgA;66"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ endomysium IgG;66"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ endomysium mi�ni g�adkich EMA (IgA"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ gliadynnie (IgA"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ granulocytarne C-ANCA;70"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ granulocytarne pANCA;70"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ insulinowe;96"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ j�drowe (nRNP);108"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ j�drowe p/Sm;91"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ j�drowe p/SS-A/Ro;91"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ j�drowe p/SS-B/La lub H;91"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ kardiolipinowe klasy (ACA) IgM;46"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ kardiolipinowe w klasie IgA;46"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ kardiolopinowe klasy (ACA)IgG;46"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ kom�rkom ok�adzinowym �o��dka (APC) IF;91"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ mi�niom g�adkim (SMA);52"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ mitochondrialne;58"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ mitochondrialne typu M2;67"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ natywnemu DNA;70"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ receptorom acetylocholiny ;166"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ toczniowi;71"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ transglutaminazie tkankowej IgA;60"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ transglutaminazie tkankowej IgG;60"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ wyspom trzustki (ICA);156"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ ssDNA (jednoniciowe DNA);70"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a przeciwj�drowe (ANA);30"
+	},
+	{
+		"NAZWA;CENA": "SCL-70 (Antygen p/sklerodermi);75"
+	},
+	{
+		"NAZWA;CENA": "SLA - p/ cia�a p. rozpuszczalnym antygenom w�troby;108"
+	},
+	{
+		"NAZWA;CENA": "MIKROBIOLOGIA;"
+	},
+	{
+		"NAZWA;CENA": "Bad. Ka�u w kierunku Salmonella;38"
+	},
+	{
+		"NAZWA;CENA": "Chlamydia - wymaz z szyjki macicy;93"
+	},
+	{
+		"NAZWA;CENA": "Ka� na grzyby;31"
+	},
+	{
+		"NAZWA;CENA": "Ka� w kierunku rotawirus�w;36"
+	},
+	{
+		"NAZWA;CENA": "Ka� w kierunku adenowirus�w;15"
+	},
+	{
+		"NAZWA;CENA": "Mocz na badanie w kierunku pr�tk�w gru�licy;46"
+	},
+	{
+		"NAZWA;CENA": "Plwocina - badanie w kierunku gru�licy;50"
+	},
+	{
+		"NAZWA;CENA": "Plwocina na badanie w kierunku pr�tk�w gru�licy;60"
+	},
+	{
+		"NAZWA;CENA": "P�yn z jam cia�a - posiew;35"
+	},
+	{
+		"NAZWA;CENA": "Posiew ka�u;40"
+	},
+	{
+		"NAZWA;CENA": "Posiew moczu;35"
+	},
+	{
+		"NAZWA;CENA": "Posiew nasienia;42"
+	},
+	{
+		"NAZWA;CENA": "Posiew plwociny;50"
+	},
+	{
+		"NAZWA;CENA": "Posiew p�ynu z jamy op�ucnej;56"
+	},
+	{
+		"NAZWA;CENA": "Posiew w kierunku pr�tk�w gru�licy -antybiogram;126"
+	},
+	{
+		"NAZWA;CENA": "Toksyna A i B w kale (Clostridium difficile);56"
+	},
+	{
+		"NAZWA;CENA": "Wymaz z cewki moczowej;40"
+	},
+	{
+		"NAZWA;CENA": "Wymaz z gard�a;43"
+	},
+	{
+		"NAZWA;CENA": "Wymaz z jamy ustnej;35"
+	},
+	{
+		"NAZWA;CENA": "Wymaz z kana�u szyjki macicy;55"
+	},
+	{
+		"NAZWA;CENA": "Wymaz z nosa;43"
+	},
+	{
+		"NAZWA;CENA": "Wymaz z odbytu;40"
+	},
+	{
+		"NAZWA;CENA": "Wymaz z odbytu w kierunku dro�d�ak�w;18"
+	},
+	{
+		"NAZWA;CENA": "Wymaz z oka;35"
+	},
+	{
+		"NAZWA;CENA": "Wymaz z pochwy;55"
+	},
+	{
+		"NAZWA;CENA": "Wymaz z pochwy na GBS;30"
+	},
+	{
+		"NAZWA;CENA": "Wymaz z rany;60"
+	},
+	{
+		"NAZWA;CENA": "Wymaz z ucha;43"
+	},
+	{
+		"NAZWA;CENA": "Wymaz ze sk�ry;45"
+	},
+	{
+		"NAZWA;CENA": "Zeskrobiny z p�ytki paznokciowej;36"
+	},
+	{
+		"NAZWA;CENA": "GDH - szybki test na Clostridum;56"
+	},
+	{
+		"NAZWA;CENA": "ALERGOLOGIA;"
+	},
+	{
+		"NAZWA;CENA": "Dermatophagoides farinae;41"
+	},
+	{
+		"NAZWA;CENA": "Dermatophagoides pteronyssinus;41"
+	},
+	{
+		"NAZWA;CENA": "EX 73 Pi�ra (swoiste IgE);41"
+	},
+	{
+		"NAZWA;CENA": "F17 Orzech laskowy (swoiste IgE);42"
+	},
+	{
+		"NAZWA;CENA": "F2 Mleko krowie (swoiste IgE);41"
+	},
+	{
+		"NAZWA;CENA": "F250 jogurt (swoiste IgG);47"
+	},
+	{
+		"NAZWA;CENA": "F252 Jajo (swoiste IgE);31"
+	},
+	{
+		"NAZWA;CENA": "F256 Orzech w�oski (swoiste IgE);31"
+	},
+	{
+		"NAZWA;CENA": "F4 M�ka pszenna (swoiste IgE);38"
+	},
+	{
+		"NAZWA;CENA": "F41 �oso� (swoiste IgG);47"
+	},
+	{
+		"NAZWA;CENA": "F52 Czekolada (swoiste IgE);45"
+	},
+	{
+		"NAZWA;CENA": "F77 B-laktoglobulina (swoiste IgG);29"
+	},
+	{
+		"NAZWA;CENA": "F78 kazeina (swoiste IgG);29"
+	},
+	{
+		"NAZWA;CENA": "F79 Gluten (swoiste IgE);38"
+	},
+	{
+		"NAZWA;CENA": "F83 Mi�so kurczaka (swoiste IgE);38"
+	},
+	{
+		"NAZWA;CENA": "F93 Kakao (swoiste IgE);41"
+	},
+	{
+		"NAZWA;CENA": "FX15 Mieszanka owoc�w;45"
+	},
+	{
+		"NAZWA;CENA": "FX16 Mieszanka owoc�w;45"
+	},
+	{
+		"NAZWA;CENA": "GH4 Mieszanka traw p�nych;45"
+	},
+	{
+		"NAZWA;CENA": "GX1 Mieszanka traw wczesnych;45"
+	},
+	{
+		"NAZWA;CENA": "HX2 mieszanka kurzu domowego (swoiste IgG);47"
+	},
+	{
+		"NAZWA;CENA": "I3 Osa pospolita (swoiste IgE);42"
+	},
+	{
+		"NAZWA;CENA": "I1 Pszczo�a (swoiste IgE);42"
+	},
+	{
+		"NAZWA;CENA": "Nietolerancja laktozy-metoda redukcyjna;18"
+	},
+	{
+		"NAZWA;CENA": "Panel atopowy POLYCHECK (20 alergen�w);130"
+	},
+	{
+		"NAZWA;CENA": "Panel atopowy W (20 alergen�w);136"
+	},
+	{
+		"NAZWA;CENA": "Panel pediatryczny POLYCHECK (20 alergen�w);130"
+	},
+	{
+		"NAZWA;CENA": "Panel pokarmowy POLYCHECK (20 alergen�w);130"
+	},
+	{
+		"NAZWA;CENA": "Panel pokarmowy W (20 alergen�w);136"
+	},
+	{
+		"NAZWA;CENA": "Panel wziewny POLYCHECK (20 alergen�w);130"
+	},
+	{
+		"NAZWA;CENA": "Panel wziewny W (20 alergen�w);136"
+	},
+	{
+		"NAZWA;CENA": "Zestaw mieszany (20 alergen�w);136"
+	},
+	{
+		"NAZWA;CENA": "Zestaw pediatryczny (panel);136"
+	},
+	{
+		"NAZWA;CENA": "Zestaw pediatryczny inhalacyjny (panel);136"
+	},
+	{
+		"NAZWA;CENA": "SEROLOGIA;"
+	},
+	{
+		"NAZWA;CENA": "Grupa krwi (wynik w tym samym dniu);35"
+	},
+	{
+		"NAZWA;CENA": "Grupa krwi (wynik w dniu nast�pnym);25"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a anty-D;25"
+	},
+	{
+		"NAZWA;CENA": "Krew karta;20"
+	},
+	{
+		"NAZWA;CENA": "INNE;"
+	},
+	{
+		"NAZWA;CENA": "17-KS;72"
+	},
+	{
+		"NAZWA;CENA": "17-OH-KS;72"
+	},
+	{
+		"NAZWA;CENA": "Aluminium w surowicy;140"
+	},
+	{
+		"NAZWA;CENA": "Amfetamina"
+	},
+	{
+		"NAZWA;CENA": "Amoniak;41"
+	},
+	{
+		"NAZWA;CENA": "Badanie sk�adu kamienia moczowego;86"
+	},
+	{
+		"NAZWA;CENA": "Beta-2-mikroglobulina w moczu;76"
+	},
+	{
+		"NAZWA;CENA": "BNP;40"
+	},
+	{
+		"NAZWA;CENA": "BRCA1+2 Test predysp. gen. do now. piersi i jajnika (BRCA1-6 mut"
+	},
+	{
+		"NAZWA;CENA": "Carbamazepina;51"
+	},
+	{
+		"NAZWA;CENA": "Ceruloplazmina;52"
+	},
+	{
+		"NAZWA;CENA": "Chrom;97"
+	},
+	{
+		"NAZWA;CENA": "Chromogranina A;60"
+	},
+	{
+		"NAZWA;CENA": "Cynk;43"
+	},
+	{
+		"NAZWA;CENA": "Cytryniany w moczu dobowym;65"
+	},
+	{
+		"NAZWA;CENA": "Digoksyna;58"
+	},
+	{
+		"NAZWA;CENA": "Elastaza w kale;60"
+	},
+	{
+		"NAZWA;CENA": "Erytropoetyna;60"
+	},
+	{
+		"NAZWA;CENA": "Esteraza cholinowa;38"
+	},
+	{
+		"NAZWA;CENA": "Fluorki w surowicy;75"
+	},
+	{
+		"NAZWA;CENA": "Fosfataza alkaliczna granulocyt�w-FAG;125"
+	},
+	{
+		"NAZWA;CENA": "Fruktozamina;36"
+	},
+	{
+		"NAZWA;CENA": "FTA- Serodiagnostyka ki�y (jako�ciowa);28"
+	},
+	{
+		"NAZWA;CENA": "G6PDH dehyrogenaza glukozo-6-fosforanu;110"
+	},
+	{
+		"NAZWA;CENA": "Gardia lamblia IgG;113"
+	},
+	{
+		"NAZWA;CENA": "Genetyczna ocena kariotypu;470"
+	},
+	{
+		"NAZWA;CENA": "Glutation;181"
+	},
+	{
+		"NAZWA;CENA": "HLA B27;110"
+	},
+	{
+		"NAZWA;CENA": "Homocysteina;60"
+	},
+	{
+		"NAZWA;CENA": "IGF 1 insulinopodobny czynnik wzrostu (somatomedyna C);78"
+	},
+	{
+		"NAZWA;CENA": "IGF BP3 bia�ko wi���ce czynnik wzrostu typu 3;155"
+	},
+	{
+		"NAZWA;CENA": "IGF-1 (SOMATOMEDYNA C);78"
+	},
+	{
+		"NAZWA;CENA": "Immunofiksacja (A"
+	},
+	{
+		"NAZWA;CENA": "Immunoglobuliny A;28"
+	},
+	{
+		"NAZWA;CENA": "Immunoglobuliny E;28"
+	},
+	{
+		"NAZWA;CENA": "Immunoglobuliny G;28"
+	},
+	{
+		"NAZWA;CENA": "Immunoglobuliny G-podklasy;240"
+	},
+	{
+		"NAZWA;CENA": "Immunoglobuliny M;28"
+	},
+	{
+		"NAZWA;CENA": "Inhibina B;188"
+	},
+	{
+		"NAZWA;CENA": "Insulina (ilo�ciowo);36"
+	},
+	{
+		"NAZWA;CENA": "Kalcytonina w surowicy krwi;72"
+	},
+	{
+		"NAZWA;CENA": "Kalprotektyna w kale;138"
+	},
+	{
+		"NAZWA;CENA": "Katecholaminy we krwi;126"
+	},
+	{
+		"NAZWA;CENA": "Kawasy ��ciowe;60"
+	},
+	{
+		"NAZWA;CENA": "Kom�rki LE;26"
+	},
+	{
+		"NAZWA;CENA": "Kompleksy immunologiczne C1q CIC (ELISA);71"
+	},
+	{
+		"NAZWA;CENA": "Kw. walproinowy;52"
+	},
+	{
+		"NAZWA;CENA": "Kwas 5-hydroksy-indolooctowy (5-HIAA);56"
+	},
+	{
+		"NAZWA;CENA": "Kwas foliowy;50"
+	},
+	{
+		"NAZWA;CENA": "Kwas wanilinomigda�owy;65"
+	},
+	{
+		"NAZWA;CENA": "Lamblia intestinalis-test immunoenzymatyczny;60"
+	},
+	{
+		"NAZWA;CENA": "LDH (Dehydrogenaza mleczanowa);13"
+	},
+	{
+		"NAZWA;CENA": "Liczba Addisa;18"
+	},
+	{
+		"NAZWA;CENA": "Lipaza;23"
+	},
+	{
+		"NAZWA;CENA": "Lipoproteina-(a);45"
+	},
+	{
+		"NAZWA;CENA": "Lit w surowicy;26"
+	},
+	{
+		"NAZWA;CENA": "�a�cuchy lekkie kappa w moczu;51"
+	},
+	{
+		"NAZWA;CENA": "�a�cuchy lekkie lambda w moczu;51"
+	},
+	{
+		"NAZWA;CENA": "Melatonina w surowicy;126"
+	},
+	{
+		"NAZWA;CENA": "Methemoglobina;32"
+	},
+	{
+		"NAZWA;CENA": "Mied� w moczu dobowym;95"
+	},
+	{
+		"NAZWA;CENA": "Mied� w surowicy;55"
+	},
+	{
+		"NAZWA;CENA": "Mioglobina;58"
+	},
+	{
+		"NAZWA;CENA": "Mleczany w osoczu;28"
+	},
+	{
+		"NAZWA;CENA": "Odczyn Coombsa (BTA);16"
+	},
+	{
+		"NAZWA;CENA": "Odczyn hemaglutynacji kr�tk�w bladych (TPHA);41"
+	},
+	{
+		"NAZWA;CENA": "Odczyn Waalera-Rose'go;17"
+	},
+	{
+		"NAZWA;CENA": "O��w;45"
+	},
+	{
+		"NAZWA;CENA": "Oporno�� osmotyczna erytrocyt�w;25"
+	},
+	{
+		"NAZWA;CENA": "Osmolalno�� moczu;30"
+	},
+	{
+		"NAZWA;CENA": "Osmolalno�� surowicy;30"
+	},
+	{
+		"NAZWA;CENA": "Osteokalcyna;86"
+	},
+	{
+		"NAZWA;CENA": "P 53;126"
+	},
+	{
+		"NAZWA;CENA": "Panel -Badania 60+;114"
+	},
+	{
+		"NAZWA;CENA": "Panel -Badania 60+ NZOZ;85"
+	},
+	{
+		"NAZWA;CENA": "Panel -Kobieta 40+;84"
+	},
+	{
+		"NAZWA;CENA": "Panel -Kobieta 40+ NZOZ;63"
+	},
+	{
+		"NAZWA;CENA": "Panel -Kobieta 50+;121"
+	},
+	{
+		"NAZWA;CENA": "Panel -Kobieta 50+ NZOZ;91"
+	},
+	{
+		"NAZWA;CENA": "Panel -M�czyzna 40+;82"
+	},
+	{
+		"NAZWA;CENA": "Panel -M�czyzna 40+ NZOZ;62"
+	},
+	{
+		"NAZWA;CENA": "Panel -M�czyzna 50+;118"
+	},
+	{
+		"NAZWA;CENA": "Panel -M�czyzna 50+ NZOZ;88"
+	},
+	{
+		"NAZWA;CENA": "Peptyd C;45"
+	},
+	{
+		"NAZWA;CENA": "Pro-BNP;85"
+	},
+	{
+		"NAZWA;CENA": "Prograf (tacrolimus);116"
+	},
+	{
+		"NAZWA;CENA": "Prokalcytonina;86"
+	},
+	{
+		"NAZWA;CENA": "Proteinogram;25"
+	},
+	{
+		"NAZWA;CENA": "Proteinogram w moczu;66"
+	},
+	{
+		"NAZWA;CENA": "Prymidon (Mizodin);42"
+	},
+	{
+		"NAZWA;CENA": "Przeciwcia�a p/ Giardia lamila IgG;113"
+	},
+	{
+		"NAZWA;CENA": "Q10;145"
+	},
+	{
+		"NAZWA;CENA": "Quantiferon TB (test IGRA);150"
+	},
+	{
+		"NAZWA;CENA": "Rozpuszczalne receptory trausferyny (sTfr);84"
+	},
+	{
+		"NAZWA;CENA": "Rt��;105"
+	},
+	{
+		"NAZWA;CENA": "Selen;106"
+	},
+	{
+		"NAZWA;CENA": "Serotonina;120"
+	},
+	{
+		"NAZWA;CENA": "Si (krzem);96"
+	},
+	{
+		"NAZWA;CENA": "Sk�adnik dope�niacza C3;42"
+	},
+	{
+		"NAZWA;CENA": "Sk�adnik dope�niacza C4;42"
+	},
+	{
+		"NAZWA;CENA": "Subpopulacja limfocyt�w;390"
+	},
+	{
+		"NAZWA;CENA": "Test podw�jny PAPPA;160"
+	},
+	{
+		"NAZWA;CENA": "Teofilina;63"
+	},
+	{
+		"NAZWA;CENA": "Transport materia�u do bada�;4"
+	},
+	{
+		"NAZWA;CENA": "Trypsyna;70"
+	},
+	{
+		"NAZWA;CENA": "Tryptaza;105"
+	},
+	{
+		"NAZWA;CENA": "UGT1 (Gilbert);193"
+	},
+	{
+		"NAZWA;CENA": "VDRL;15"
+	},
+	{
+		"NAZWA;CENA": "Wirowanie materia�u;5"
+	},
+	{
+		"NAZWA;CENA": "Witamina 25-OH-D3;61"
+	},
+	{
+		"NAZWA;CENA": "Witamina A;80"
+	},
+	{
+		"NAZWA;CENA": "Witamina B 6;70"
+	},
+	{
+		"NAZWA;CENA": "Witamina B12;35"
+	},
+	{
+		"NAZWA;CENA": "Witamina C;91"
+	},
+	{
+		"NAZWA;CENA": "Witamina H (witamina B7"
+	},
+	{
+		"NAZWA;CENA": "Post�j transportu - dzie� powszedni (1 h);15"
+	},
+	{
+		"NAZWA;CENA": "Post�j transportu - weekend i �wi�ta (1 h);20"
+	},
+	{
+		"NAZWA;CENA": "Karta wjazdowa;15"
+	},
+	{
+		"NAZWA;CENA": "Karta wjazdowa - abonament miesi�czny;10"
+	},
+	{
+		"NAZWA;CENA": "Miejsce parkingowe - abonament miesi�czny;36"
+	},
+	{
+		"NAZWA;CENA": "Gara�owanie - abonament miesi�czny;123"
+	},
+	{
+		"NAZWA;CENA": "Sterylizacja - pakiet ma�y;7"
+	},
+	{
+		"NAZWA;CENA": "Sterylizacja - pakiet �redni;11"
+	},
+	{
+		"NAZWA;CENA": "Sterylizacja - pakiet du�y;18"
+	},
+	{
+		"NAZWA;CENA": "Sterylizacja - pakiet taca;43"
+	},
+	{
+		"NAZWA;CENA": "Szlabany;5"
+	},
+	{
+		"NAZWA;CENA": "Zabezpieczenie medyczne imprez w dzie� powszedni (1h);40"
+	},
+	{
+		"NAZWA;CENA": "Zabezpieczenie medyczne imprez w weekend i �wi�ta (1h);80"
+	},
+	{
+		"NAZWA;CENA": "Utylizacja odpad�w medycznych 1 (kg);10"
+	},
+	{
+		"NAZWA;CENA": "Odp�atno�� za toalet�;1"
+	},
+	{
+		"NAZWA;CENA": "Przew�z w granicach administracyjnych miasta w 1-stron� (dzie� powszedni);40"
+	},
+	{
+		"NAZWA;CENA": "Przew�z w granicach administracyjnych miasta w 1-stron� (dzie� wolny od pracy);60"
+	},
+	{
+		"NAZWA;CENA": "Przew�z w granicach administracyjnych miasta w 2-strony (dzie� powszedni);50"
+	},
+	{
+		"NAZWA;CENA": "Przew�z w granicach administracyjnych miasta w 2-strony (dzie� wolny od pracy);80"
+	},
+	{
+		"NAZWA;CENA": "Przew�z do 100 km (dzie� powszedni) (40 z� + 2 z�/km);"
+	},
+	{
+		"NAZWA;CENA": "Przew�z do 100 km (dzie� wolny od pracy) (60 z� + 2"
+	},
+	{
+		"NAZWA;CENA": "Przew�z pow. 100 km (dzie� powszedni) - za 1/km;1"
+	},
+	{
+		"NAZWA;CENA": "Przew�z pow. 100 km (dzie� wolny od pracy) - za 1/km;2"
+	},
+	{
+		"NAZWA;CENA": "Badanie kierowc�w zawodowych (kategoria C i powy�ej lub kwalifikacje);150"
+	},
+	{
+		"NAZWA;CENA": "Badanie egzaminatora lub instruktora - lub kandydaci;150"
+	},
+	{
+		"NAZWA;CENA": "Badanie os�b ubiegaj�cych si� o przywr�cenie uprawnie� do kierowania pojazdami;150"
+	},
+	{
+		"NAZWA;CENA": "Wydanie ponownego orzeczenia dla kierowcy zawodowego;35"
+	},
+	{
+		"NAZWA;CENA": "Badanie psychychologiczne konsultacyjne - jednostkowe;30"
+	},
+	{
+		"NAZWA;CENA": "Badanie os�by wykonuj�cej zawody wymagaj�ce sprawno�ci psychomotorycznej;98"
+	},
+	{
+		"NAZWA;CENA": "Badanie kierowc�w kategorii B;150"
+	},
+	{
+		"NAZWA;CENA": "Badanie psychologiczne ��czne (kierowca i sprawno�� psychomotoryczna);200"
+	},
+	{
+		"NAZWA;CENA": "Duplikat orzeczenia psychologicznego;10"
+	},
+	{
+		"NAZWA;CENA": "Dop�ata do badania psychologicznego \"50\""
+	},
+	{
+		"NAZWA;CENA": "Dop�ata do badania psychologicznego \"101,60\""
+	},
+	{
+		"NAZWA;CENA": ""
+	}
+]
