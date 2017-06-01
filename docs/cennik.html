@@ -1,0 +1,43 @@
+<!DOCKTYPE html>
+<html>
+<head>
+<title>cennik</title>
+</head>
+<body>
+    <div class="tabela">
+    <table>
+        <colgroup>
+            <col span="1">
+            <col span="6">
+        </colgroup>
+        <thead style="background-color:blue">
+        <tr>
+            <th>
+                Nazwa
+            </th>
+            <th>
+                Cena
+            </th>
+        </tr>
+        </thead>
+        <tbody id='tabela'>
+
+        <script>
+                    $.getJSON("./files/codebeautify.json", wypelnij);
+                    function wypelnij(data) {
+                        console.log("success");
+                        let add = '';
+                        $.each(data, function (i, obj) {
+                            add += '<tr><td>' + obj.nazwa + '</td>'
+                            add += '<td>' + obj.cena + '</td></tr>'
+                            
+                            console.log("success");
+                        });
+                        $('#tabela').html(add);
+                    }
+        </script>
+        </tbody>
+    </table>
+ </div>
+</body>
+</html>
